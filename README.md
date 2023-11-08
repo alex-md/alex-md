@@ -5,22 +5,14 @@
 <p align='center'>
 
 
+- **Alex Johnson (a.k.a. alex-md)**: Master of digital wizardry 🧙‍♂️ and student extraordinaire 🎓.
+- **Location**: Phoenix, AZ 🌵 — where cacti and coders flourish under the same sun.
+- **Current quests**:
+  - Surviving a calculus midterm 📚 — an epic battle of numbers.
+  - Group web development project 🌐 — like herding cats, but with more JavaScript.
+  - Internship applications 📝 — playing the job market lottery.
+- **Side hustle**: Advocating for an anteater's rise to political power 🐜👔
 
-- 🔭 Working on 
-- - Preparing for a midterm exam in calculus
-- Writing a research paper on artificial intelligence
-- Completing a group project on web development
-- Applying for internships
-
-- 🌱 I’m currently learning how to use a software tool for data analysis
-
-
-
-- AI research
-- Internships or jobs
-- Life
-- Advanced Software used in the field of computer science
-- Trying to promote an anteater to President of the US. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/alex-md?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
