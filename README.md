@@ -7,7 +7,7 @@
 
 - **Alex Johnson (a.k.a. alex-md)**: Master of digital wizardry 🧙‍♂️ and student extraordinaire 🎓.
 - **Location**: Phoenix, AZ 🌵 — where cacti and coders flourish under the same sun.
-- **Current quests**:
+- **Currently**:
   - Surviving a calculus midterm 📚 — an epic battle of numbers.
   - Group web development project 🌐 — like herding cats, but with more JavaScript.
   - Internship applications 📝 — playing the job market lottery.
