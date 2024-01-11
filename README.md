@@ -5,15 +5,6 @@
 <p align='center'>
 
 
-- **Alex Johnson (a.k.a. alex-md)**: Master of digital wizardry 🧙‍♂️ and student extraordinaire 🎓.
-- **Location**: Phoenix, AZ 🌵 — where cacti and coders flourish under the same sun.
-- **Currently**:
-  - Surviving a calculus midterm 📚 — an epic battle of numbers.
-  - Group web development project 🌐 — like herding cats, but with more JavaScript.
-  - Internship applications 📝 — playing the job market lottery.
-- **Side hustle**: Advocating for an anteater's rise to political power 🐜👔
-
-
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/alex-md?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/alex-md?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
